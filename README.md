@@ -34,3 +34,5 @@
 </body>
 </html>
 ```
+
+2. Create a component & reuse component to create multiple instances
