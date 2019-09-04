@@ -36,3 +36,8 @@
 ```
 
 2. Create a component & reuse component to create multiple instances
+
+3. Passing in props to component & destructuring props
+
+
+
