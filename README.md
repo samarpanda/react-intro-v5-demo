@@ -45,8 +45,19 @@
 npm i -D prettier
 ```
 
-Intall prettier plugin & user setting to configure
+Install prettier plugin & user setting to configure
 
 - Install plugin Prettier - Code formatter By Esben Petersen
 - check the option "Format On Save"
 - Prettier: Require Config - Requires a prettier config to format. Pretty useful as this auto format is not activated if the config file is not available.
+
+5. Configure ESLint
+
+```cmd
+npm i -D eslint eslint-config-prettier
+```
+
+ESlint plugin & user settings to configure
+
+- Install eslint plugin by Dirk Baeumer
+- check the option "Eslint> Lint Task: Enable"
